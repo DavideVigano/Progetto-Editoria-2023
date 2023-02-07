@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator id="cre">Davide Vigano'</dc:creator>
+    <meta property="role" refines="#cre" scheme="marc:relators">aut</meta>
+    <dc:language>it</dc:language>
+    <dc:title>Ricettario Misto</dc:title>
+    <dc:creator>Anna Rosa</dc:creator>
+    <meta property="dcterms:modified">2023-02-07T02:13:24Z</meta>
+    <dc:identifier id="BookId">urn:uuid:8568e361-9810-4988-8b6f-e429e4efe203</dc:identifier>
+    <meta content="1.9.20" name="Sigil version"/>
+    <meta name="cover" content="copertina.jpeg"/>
+  </metadata>
+  <manifest>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="bootstrap-grid.css" href="Styles/bootstrap-grid.css" media-type="text/css"/>
+    <item id="bootstrap-grid.css.map" href="Misc/bootstrap-grid.css.map" media-type="text/plain"/>
+    <item id="bootstrap-grid.min.css" href="Styles/bootstrap-grid.min.css" media-type="text/css"/>
+    <item id="bootstrap-grid.min.css.map" href="Misc/bootstrap-grid.min.css.map" media-type="text/plain"/>
+    <item id="bootstrap-grid.rtl.css" href="Styles/bootstrap-grid.rtl.css" media-type="text/css"/>
+    <item id="bootstrap-grid.rtl.css.map" href="Misc/bootstrap-grid.rtl.css.map" media-type="text/plain"/>
+    <item id="bootstrap-grid.rtl.min.css" href="Styles/bootstrap-grid.rtl.min.css" media-type="text/css"/>
+    <item id="bootstrap-grid.rtl.min.css.map" href="Misc/bootstrap-grid.rtl.min.css.map" media-type="text/plain"/>
+    <item id="bootstrap-reboot.css" href="Styles/bootstrap-reboot.css" media-type="text/css"/>
+    <item id="bootstrap-reboot.css.map" href="Misc/bootstrap-reboot.css.map" media-type="text/plain"/>
+    <item id="bootstrap-reboot.min.css" href="Styles/bootstrap-reboot.min.css" media-type="text/css"/>
+    <item id="bootstrap-reboot.min.css.map" href="Misc/bootstrap-reboot.min.css.map" media-type="text/plain"/>
+    <item id="bootstrap-reboot.rtl.css" href="Styles/bootstrap-reboot.rtl.css" media-type="text/css"/>
+    <item id="bootstrap-reboot.rtl.css.map" href="Misc/bootstrap-reboot.rtl.css.map" media-type="text/plain"/>
+    <item id="bootstrap-reboot.rtl.min.css" href="Styles/bootstrap-reboot.rtl.min.css" media-type="text/css"/>
+    <item id="bootstrap-reboot.rtl.min.css.map" href="Misc/bootstrap-reboot.rtl.min.css.map" media-type="text/plain"/>
+    <item id="bootstrap-utilities.css" href="Styles/bootstrap-utilities.css" media-type="text/css"/>
+    <item id="bootstrap-utilities.css.map" href="Misc/bootstrap-utilities.css.map" media-type="text/plain"/>
+    <item id="bootstrap-utilities.min.css" href="Styles/bootstrap-utilities.min.css" media-type="text/css"/>
+    <item id="bootstrap-utilities.min.css.map" href="Misc/bootstrap-utilities.min.css.map" media-type="text/plain"/>
+    <item id="bootstrap-utilities.rtl.css" href="Styles/bootstrap-utilities.rtl.css" media-type="text/css"/>
+    <item id="bootstrap-utilities.rtl.css.map" href="Misc/bootstrap-utilities.rtl.css.map" media-type="text/plain"/>
+    <item id="bootstrap-utilities.rtl.min.css" href="Styles/bootstrap-utilities.rtl.min.css" media-type="text/css"/>
+    <item id="bootstrap-utilities.rtl.min.css.map" href="Misc/bootstrap-utilities.rtl.min.css.map" media-type="text/plain"/>
+    <item id="bootstrap.css" href="Styles/bootstrap.css" media-type="text/css"/>
+    <item id="bootstrap.css.map" href="Misc/bootstrap.css.map" media-type="text/plain"/>
+    <item id="bootstrap.min.css" href="Styles/bootstrap.min.css" media-type="text/css"/>
+    <item id="bootstrap.min.css.map" href="Misc/bootstrap.min.css.map" media-type="text/plain"/>
+    <item id="bootstrap.rtl.css" href="Styles/bootstrap.rtl.css" media-type="text/css"/>
+    <item id="bootstrap.rtl.css.map" href="Misc/bootstrap.rtl.css.map" media-type="text/plain"/>
+    <item id="bootstrap.rtl.min.css" href="Styles/bootstrap.rtl.min.css" media-type="text/css"/>
+    <item id="bootstrap.rtl.min.css.map" href="Misc/bootstrap.rtl.min.css.map" media-type="text/plain"/>
+    <item id="bootstrap.bundle.js" href="Misc/bootstrap.bundle.js" media-type="application/javascript"/>
+    <item id="bootstrap.bundle.js.map" href="Misc/bootstrap.bundle.js.map" media-type="text/plain"/>
+    <item id="bootstrap.bundle.min.js" href="Misc/bootstrap.bundle.min.js" media-type="application/javascript"/>
+    <item id="bootstrap.bundle.min.js.map" href="Misc/bootstrap.bundle.min.js.map" media-type="text/plain"/>
+    <item id="bootstrap.esm.js" href="Misc/bootstrap.esm.js" media-type="application/javascript"/>
+    <item id="bootstrap.esm.js.map" href="Misc/bootstrap.esm.js.map" media-type="text/plain"/>
+    <item id="bootstrap.esm.min.js" href="Misc/bootstrap.esm.min.js" media-type="application/javascript"/>
+    <item id="bootstrap.esm.min.js.map" href="Misc/bootstrap.esm.min.js.map" media-type="text/plain"/>
+    <item id="bootstrap.js" href="Misc/bootstrap.js" media-type="application/javascript"/>
+    <item id="bootstrap.js.map" href="Misc/bootstrap.js.map" media-type="text/plain"/>
+    <item id="bootstrap.min.js" href="Misc/bootstrap.min.js" media-type="application/javascript"/>
+    <item id="bootstrap.min.js.map" href="Misc/bootstrap.min.js.map" media-type="text/plain"/>
+    <item id="basic.css" href="Styles/basic.css" media-type="text/css"/>
+    <item id="default-primi.xhtml" href="Text/default-primi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="default-pasta.xhtml" href="Text/default-pasta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="OFL.txt" href="Misc/OFL.txt" media-type="text/plain"/>
+    <item id="Pacifico-Regular.ttf" href="Fonts/Pacifico-Regular.ttf" media-type="font/ttf"/>
+    <item id="default-intro.xhtml" href="Text/default-intro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="calzature-vigano-3000x1000.png" href="Images/calzature-viganò-3000x1000.png" media-type="image/png"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="deafault-riso.xhtml" href="Text/deafault-riso.xhtml" media-type="application/xhtml+xml"/>
+    <item id="risotto-limone.mp4" href="Video/risotto-limone.mp4" media-type="video/mp4"/>
+    <item id="risotto-limone-2.mp4" href="Video/risotto-limone-2.mp4" media-type="video/mp4"/>
+    <item id="carne-700.gif" href="Images/carne-700.gif" media-type="image/gif"/>
+    <item id="copertina-700.png" href="Images/copertina-700.png" media-type="image/png"/>
+    <item id="gelato-700.gif" href="Images/gelato-700.gif" media-type="image/gif"/>
+    <item id="minestra-700.svg" href="Images/minestra-700.svg" media-type="image/svg+xml"/>
+    <item id="pasta-700.gif" href="Images/pasta-700.gif" media-type="image/gif"/>
+    <item id="pesce-700.gif" href="Images/pesce-700.gif" media-type="image/gif"/>
+    <item id="riso-700.gif" href="Images/riso-700.gif" media-type="image/gif"/>
+    <item id="torta-700.svg" href="Images/torta-700.svg" media-type="image/svg+xml"/>
+    <item id="uova-700.gif" href="Images/uova-700.gif" media-type="image/gif"/>
+    <item id="verdure-700.gif" href="Images/verdure-700.gif" media-type="image/gif"/>
+    <item id="carne-1170.svg" href="Images/carne-1170.svg" media-type="image/svg+xml"/>
+    <item id="copertina-1170.png" href="Images/copertina-1170.png" media-type="image/png"/>
+    <item id="gelato-1170.svg" href="Images/gelato-1170.svg" media-type="image/svg+xml"/>
+    <item id="minestra-1170.svg" href="Images/minestra-1170.svg" media-type="image/svg+xml"/>
+    <item id="pasta-1170.svg" href="Images/pasta-1170.svg" media-type="image/svg+xml"/>
+    <item id="pesce-1170.svg" href="Images/pesce-1170.svg" media-type="image/svg+xml"/>
+    <item id="riso-1170.svg" href="Images/riso-1170.svg" media-type="image/svg+xml"/>
+    <item id="torta-1170.svg" href="Images/torta-1170.svg" media-type="image/svg+xml"/>
+    <item id="uova-1170.svg" href="Images/uova-1170.svg" media-type="image/svg+xml"/>
+    <item id="verdure-1170.svg" href="Images/verdure-1170.svg" media-type="image/svg+xml"/>
+    <item id="copertina.jpeg" href="Images/copertina.jpeg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="default-secondi.xhtml" href="Text/default-secondi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="default-dolci.xhtml" href="Text/default-dolci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="default-carne.xhtml" href="Text/default-carne.xhtml" media-type="application/xhtml+xml"/>
+    <item id="default-pesce.xhtml" href="Text/default-pesce.xhtml" media-type="application/xhtml+xml"/>
+    <item id="default-verdure.xhtml" href="Text/default-verdure.xhtml" media-type="application/xhtml+xml"/>
+    <item id="default-uova.xhtml" href="Text/default-uova.xhtml" media-type="application/xhtml+xml"/>
+    <item id="default-torte.xhtml" href="Text/default-torte.xhtml" media-type="application/xhtml+xml"/>
+    <item id="default-gelato.xhtml" href="Text/default-gelato.xhtml" media-type="application/xhtml+xml"/>
+    <item id="default-minestre.xhtml" href="Text/default-minestre.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Brodo-malati.xhtml" href="Text/Brodo-malati.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Fritto-semolino.xhtml" href="Text/Fritto-semolino.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Minestra-bamboline-patate.xhtml" href="Text/Minestra-bamboline-patate.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Minestra-m-ricotta.xhtml" href="Text/Minestra-m-ricotta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Minestra-semolino.xhtml" href="Text/Minestra-semolino.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Minestra-verdura.xhtml" href="Text/Minestra-verdura.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Palline-pane-brodo.xhtml" href="Text/Palline-pane-brodo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pastina-diabetici.xhtml" href="Text/Pastina-diabetici.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Semolino-brodo.xhtml" href="Text/Semolino-brodo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Stracciatella-romana.xhtml" href="Text/Stracciatella-romana.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Zuppa-magro.xhtml" href="Text/Zuppa-magro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pasta-gratin.xhtml" href="Text/Pasta-gratin.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pasta-uovo.xhtml" href="Text/Pasta-uovo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pasta-verduta.xhtml" href="Text/Pasta-verduta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Crema-riso.xhtml" href="Text/Crema-riso.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Riso-funghi.xhtml" href="Text/Riso-funghi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Riso-latte.xhtml" href="Text/Riso-latte.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Vitello-tonnato.xhtml" href="Text/Vitello-tonnato.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pesce-bianco.xhtml" href="Text/Pesce-bianco.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Hau-spinaci.xhtml" href="Text/Hau-spinaci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-index.css" href="Styles/sgc-index.css" media-type="text/css"/>
+    <item id="Index.xhtml" href="Text/Index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Riso-limone.xhtml" href="Text/Riso-limone.xhtml" media-type="application/xhtml+xml"/>
+    <item id="torta.svg" href="Images/torta.svg" media-type="image/svg+xml"/>
+    <item id="zuppa.mp4" href="Video/zuppa.mp4" media-type="video/mp4"/>
+    <item id="frittata-spinaci.xhtml" href="Text/frittata-spinaci.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frittata-zucchine.xhtml" href="Text/frittata-zucchine.xhtml" media-type="application/xhtml+xml"/>
+    <item id="gelato-fragole.xhtml" href="Text/gelato-fragole.xhtml" media-type="application/xhtml+xml"/>
+    <item id="torta-nocciole.xhtml" href="Text/torta-nocciole.xhtml" media-type="application/xhtml+xml"/>
+    <item id="risotto.mp4" href="Video/risotto.mp4" media-type="video/mp4"/>
+    <item id="pasta-verdure.mp4" href="Video/pasta-verdure.mp4" media-type="video/mp4"/>
+    <item id="gelato.mp4" href="Video/gelato.mp4" media-type="video/mp4"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+    <itemref idref="default-intro.xhtml"/>
+    <itemref idref="default-primi.xhtml"/>
+    <itemref idref="default-minestre.xhtml"/>
+    <itemref idref="Brodo-malati.xhtml"/>
+    <itemref idref="Fritto-semolino.xhtml"/>
+    <itemref idref="Minestra-bamboline-patate.xhtml"/>
+    <itemref idref="Minestra-m-ricotta.xhtml"/>
+    <itemref idref="Minestra-semolino.xhtml"/>
+    <itemref idref="Minestra-verdura.xhtml"/>
+    <itemref idref="Palline-pane-brodo.xhtml"/>
+    <itemref idref="Pastina-diabetici.xhtml"/>
+    <itemref idref="Semolino-brodo.xhtml"/>
+    <itemref idref="Stracciatella-romana.xhtml"/>
+    <itemref idref="Zuppa-magro.xhtml"/>
+    <itemref idref="default-pasta.xhtml"/>
+    <itemref idref="Pasta-gratin.xhtml"/>
+    <itemref idref="Pasta-uovo.xhtml"/>
+    <itemref idref="Pasta-verduta.xhtml"/>
+    <itemref idref="deafault-riso.xhtml"/>
+    <itemref idref="Crema-riso.xhtml"/>
+    <itemref idref="Riso-funghi.xhtml"/>
+    <itemref idref="Riso-latte.xhtml"/>
+    <itemref idref="Riso-limone.xhtml"/>
+    <itemref idref="default-secondi.xhtml"/>
+    <itemref idref="default-carne.xhtml"/>
+    <itemref idref="Vitello-tonnato.xhtml"/>
+    <itemref idref="default-pesce.xhtml"/>
+    <itemref idref="Pesce-bianco.xhtml"/>
+    <itemref idref="default-verdure.xhtml"/>
+    <itemref idref="Hau-spinaci.xhtml"/>
+    <itemref idref="default-uova.xhtml"/>
+    <itemref idref="frittata-zucchine.xhtml"/>
+    <itemref idref="frittata-spinaci.xhtml"/>
+    <itemref idref="default-dolci.xhtml"/>
+    <itemref idref="default-torte.xhtml"/>
+    <itemref idref="torta-nocciole.xhtml"/>
+    <itemref idref="default-gelato.xhtml"/>
+    <itemref idref="gelato-fragole.xhtml"/>
+    <itemref idref="Index.xhtml"/>
+  </spine>
+</package>

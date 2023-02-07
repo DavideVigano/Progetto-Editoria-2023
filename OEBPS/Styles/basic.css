@@ -1,0 +1,41 @@
+@font-face {
+      font-family: 'Pacifico';
+      src: url('../Fonts/Pacifico-Regular.ttf');
+}
+
+body {
+    text-align: justify;
+    margin: 8%;
+}
+
+.titolo-categorie{
+    font-family: 'Pacifico';
+}
+
+.cover{
+ background-color: white;
+}
+
+.categorie{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.small{
+	display: none;
+}
+
+.sigil_index_marker{
+	color: black;
+}
+
+@media (max-height: 900px) {
+    .small{
+		display: block;
+	}
+
+	.normal{
+		display: none;
+	}
+}
